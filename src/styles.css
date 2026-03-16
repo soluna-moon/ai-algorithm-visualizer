@@ -1,0 +1,62 @@
+.container {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.visualizer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 400px;
+    gap: 3px;
+    margin-top: 40px;
+}
+
+.bar {
+    width: 12px;
+    background: linear-gradient(180deg, #4CAF50, #2E7D32);
+    transition: height 0.2s ease;
+    border-radius: 3px;
+}
+
+.controls button {
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+.ai-box {
+    margin-top: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+background:#0f172a;
+color:white;
+font-family:sans-serif;
+}
+
+button{
+background:#2563eb;
+color:white;
+border:none;
+padding:8px 16px;
+margin:5px;
+border-radius:6px;
+cursor:pointer;
+}
+
+button:hover{
+background:#1d4ed8;
+}
+
+.algo-panel{
+
+background:#1e293b;
+padding:15px;
+margin:15px;
+border-radius:8px;
+max-width:400px;
+
+}

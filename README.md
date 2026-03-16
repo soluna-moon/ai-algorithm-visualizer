@@ -1,16 +1,48 @@
-# React + Vite
+# AI Algorithm & Pathfinding Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive web application for visualizing classic algorithms used in computer science.
 
-Currently, two official plugins are available:
+The project demonstrates how sorting algorithms and pathfinding algorithms work through animated visualizations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Demo
 
-## React Compiler
+![App Screenshot](screenshots.png)
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Sorting algorithm visualization
 
-## Expanding the ESLint configuration
+• Bubble Sort
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+• Quick Sort
+
+- Pathfinding visualization
+
+• Dijkstra Algorithm
+
+• A* Algorithm
+
+- Interactive grid with wall drawing
+
+• Maze generator
+
+• Animated algorithm steps
+
+• Adjustable speed and array size
+
+## Technologies
+
+- React
+- JavaScript
+- Vite
+- Algorithm Design
+- Pathfinding Algorithms
+
+## Installation
+
+Clone the repository:
+
+git clone <https://github.com/soluna-moon/ai-algorithm-visualizer.git>
+
+## Author
+
+Aldarassan Anel

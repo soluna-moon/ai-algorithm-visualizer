@@ -4,6 +4,9 @@ Interactive web application for visualizing classic algorithms used in computer 
 
 The project demonstrates how sorting algorithms and pathfinding algorithms work through animated visualizations.
 
+## Demo
+![demo](./demo.gif)
+
 ## Live Demo
 
 https://ai-algorithm-visualizer-lp2a8pilz-soluna-moons-projects.vercel.app
